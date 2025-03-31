@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&family=Noto+Sans+TC:wght@100..900&display=swap');
+
+body {font-family:"微軟正黑體" "Noto Sans TC", sans-serif;}
+/* 變更整體文字大小 html{font-size: 32px;} */
+/* 變更個別文字大小
+h5 {font-size: 2rem;} */
+
+:root,[data-bs-theme=dark]{
+    --bs-dark-rgb: 217, 146, 146;
+}
+.text-purple{color: rgb(218, 111,111);}
